@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Newbie Programmer & Coding Enthusiast
 -------------------------------------
 
-Hey, I'm Udaya Wijesooriya 😗, 26 years old. I'm soon to be a Physical Science Undergraduate form Eastern University Sri Lanka 🇱🇰. I'm a hardworking and fast-learning individual who interested in areas such as Data Science🕹️, Artificial Intelligence 🤖, Machine Learning 🦾 & DevOps Engineering💻.
+Hey, I'm Udaya Wijesooriya 😗, 26 years old. I'm soon to be a Physical Science Undergraduate form Eastern University Sri Lanka 🇱🇰. I'm a hardworking and fast-learning individual who interested in areas such as DevOps Engineering💻, Cloud Engineering🕹️, Artificial Intelligence 🤖 & Machine Learning 🦾.
 
 * 🌍  I'm based in Sri Lanka 🇱🇰
 * ✉️  You can contact me at [udayaswijesooriya@gmail.com](mailto:udayaswijesooriya@gmail.com)
